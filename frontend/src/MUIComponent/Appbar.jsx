@@ -46,7 +46,7 @@ const Appbar = ({ drawerWidth, ShowDrawer }) => {
         <Typography
           // @ts-ignore
           variant="p"
-          color="inherit" sx={{display:{xs:"none",md:"block"}}}
+          color="inherit" sx={{display:{xs:"none",sm:"block"}}}
         >
           Mohamed El Aouan
         </Typography>
