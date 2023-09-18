@@ -40,7 +40,7 @@ const Appbar = ({ drawerWidth, ShowDrawer }) => {
             },
           }}
         >
-          Online Store
+          Online MyStore
         </Link>
 
         <Typography
